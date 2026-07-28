@@ -18,4 +18,4 @@ This project uses an Arduino Uno and two L293D motor drivers to control four DC 
 - Common GND → Shared by the Arduino, battery, and both L293D drivers.
 
 ## Tinkercad Simulation
-Tinkercad Link: ([Paste your link here](https://www.tinkercad.com/things/153wrwEKCvC-cool-leelo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fthings%2F153wrwEKCvC-cool-leelo))
+Tinkercad Link: ([Click here](https://www.tinkercad.com/things/153wrwEKCvC-cool-leelo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fthings%2F153wrwEKCvC-cool-leelo))
