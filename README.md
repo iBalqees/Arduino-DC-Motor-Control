@@ -10,7 +10,7 @@ This project uses an Arduino Uno and two L293D motor drivers to control four DC 
 - Tinkercad
 - Arduino Uno
 - L293D Motor Driver
-- C++ (Arduino IDE)
+- C++ 
 
 ## Circuit Connections
 - Arduino 5V → Powers the L293D logic.
